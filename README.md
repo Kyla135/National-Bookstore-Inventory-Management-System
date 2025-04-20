@@ -20,7 +20,7 @@ Q.A Tester: Lovely Irish Benoyo
 # Progress
 Phase 1: 100%
 Phase 2: 100%
-Phase 3: 0%
+Phase 3: 100%
 Phase 4: 0%
 Phase 5: 0%
 Phase 6: 0%
