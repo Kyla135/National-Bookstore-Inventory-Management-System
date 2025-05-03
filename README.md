@@ -1,11 +1,11 @@
 # National-Bookstore-Inventory-Management-System
 
 # Description
-The National Bookstore Inventory Management System is an extensive database created to effectively manage book inventories and supplier details. Rhe system ensures that inventory is monitored effeciently, supplier reports are accurate to make informed decisions. The system monitors stock level, book information, and supplier details in real-time. Keep supplier details, purchase history, and delivery schedules.
+The National Bookstore Inventory Management System is a comprehensive database designed to efficiently manage the inventory of various product categories, including books, school supplies, office supplies, toys, and educational games. The system ensures real-time monitoring of stock levels and generates reliable reports to support informed decision-making. It keeps detailed records of all products and tracks inventory movement across different categories. 
+
 
 # Key Functionalities
-Bookstore Inventory Managment: create, edit, and delete book records with price and description.
-Supplier Database: keep contact information for suppliers purchase history, and order delivery information.
+Inventory Management: Create, edit, and delete records for books, school supplies, office items, toys, and educational games, including prices and descriptions. 
 
 # Language
 MySql Workbench
@@ -18,9 +18,9 @@ Back-End Developer: Shane Yvette Peñaflor
 Q.A Tester: Lovely Irish Benoyo
 
 # Progress
-Phase 1: 100%
-Phase 2: 100%
-Phase 3: 100%
+Phase 1: 
+Phase 2: 
+Phase 3: 
 Phase 4: 0%
 Phase 5: 0%
 Phase 6: 0%
